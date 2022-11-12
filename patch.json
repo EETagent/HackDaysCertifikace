@@ -1,0 +1,41 @@
+{
+  "_class": "patch",
+  "version": 136,
+  "compatibilityVersion": 136,
+  "id": "558c7bd0-57eb-40b4-b230-13a2f68b1c02",
+  "operations": [
+    {
+      "_class": "change",
+      "objectID": "BF55BA80-979C-4164-8895-2C31CC95CB45",
+      "property": "attributedString",
+      "value": {
+        "_class": "attributedString",
+        "string": "Jeroným Byczkowski",
+        "attributes": [
+          {
+            "_class": "stringAttribute",
+            "location": 0,
+            "length": 18,
+            "attributes": {
+              "underlineStyle": 1,
+              "paragraphStyle": { "_class": "paragraphStyle", "alignment": 2 },
+              "kerning": -3.15,
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": { "name": "Supply-Bold", "size": 45 }
+              },
+              "textStyleVerticalAlignmentKey": 0,
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "checksum": "6C62272E07BB014262B821756295C58D"
+}
